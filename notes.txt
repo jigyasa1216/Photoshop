@@ -1,0 +1,17 @@
+LAYERS
+(go to images)
+. auto tone
+. auto colour
+. auto contrast
+(to unlock the background, dOuble click on it and change its name)
+
+NAVIGATION
+edit->transform->scale (zoom in and out)
+
+CHANGE COLOURS
+change 1 particular colour:
+adjustments->hue/saturation->master
+
+CHANGE COLOUR OF TEXT (GRADIENT)
+layers->text->fix->gradient overlay
+(go to www.grabient.com to get different colour gradients and just copy paste the colour code in the gradient overlay)
