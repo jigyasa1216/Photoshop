@@ -1,2 +1,2 @@
 # Photoshop
-This contains all of my Adobe Photoshop work.
+This contains all of my Adobe Photoshop practice work.
